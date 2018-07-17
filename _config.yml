@@ -5,7 +5,7 @@ baseurl:
 url: http://coderglenn.cn
 date_format: "ordinal"
 title: CoderGlenn
-subtitle: "Test"
+subtitle:
 description: "ZhengHao的个人博客"
 keywords: 技术, ZhengHao, java, python...
 timezone: Asia/Shanghai
